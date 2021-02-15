@@ -1,0 +1,159 @@
+{
+  "count":7,
+  "results":[
+    {
+      "fixtureid" : "1",
+      "homeTeamID" : "1",
+      "awayTeamID" : "2",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 1st – 09:00"
+    },
+    {
+      "fixtureid" : "2",
+      "homeTeamID" : "3",
+      "awayTeamID" : "4",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 1st – 09:00"
+    },
+    {
+      "fixtureid" : "3",
+      "homeTeamID" : "5",
+      "awayTeamID" : "6",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 1st – 11:00"
+    },
+    {
+      "fixtureid" : "4",
+      "homeTeamID" : "7",
+      "awayTeamID" : "8",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 1st – 11:00"
+    },
+    {
+      "fixtureid" : "5",
+      "homeTeamID" : "1",
+      "awayTeamID" : "3",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 1st – 14:00"
+    },
+    {
+      "fixtureid" : "6",
+      "homeTeamID" : "2",
+      "awayTeamID" : "5",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 1st – 15:30"
+    },
+    {
+      "fixtureid" : "7",
+      "homeTeamID" : "4",
+      "awayTeamID" : "6",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 1st – 18:00"
+    },
+    {
+      "fixtureid" : "8",
+      "homeTeamID" : "7",
+      "awayTeamID" : "1",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 2nd – 09:00"
+    },
+    {
+      "fixtureid" : "9",
+      "homeTeamID" : "8",
+      "awayTeamID" : "2",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 2nd – 11:00"
+    },
+    {
+      "fixtureid" : "10",
+      "homeTeamID" : "6",
+      "awayTeamID" : "2",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 2nd – 12:00"
+    },
+    {
+      "fixtureid" : "11",
+      "homeTeamID" : "8",
+      "awayTeamID" : "5",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 2nd – 15:30"
+    },
+    {
+      "fixtureid" : "12",
+      "homeTeamID" : "3",
+      "awayTeamID" : "6",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 2nd – 18:00"
+    },
+    {
+      "fixtureid" : "13",
+      "homeTeamID" : "7",
+      "awayTeamID" : "2",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 2nd – 20:00"
+    },
+    {
+      "fixtureid" : "14",
+      "homeTeamID" : "4",
+      "awayTeamID" : "8",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 3rd – 09:00"
+    },
+    {
+      "fixtureid" : "15",
+      "homeTeamID" : "2",
+      "awayTeamID" : "5",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 3rd – 11:00"
+    },
+    {
+      "fixtureid" : "16",
+      "homeTeamID" : "4",
+      "awayTeamID" : "2",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 3rd – 12:30"
+    },
+    {
+      "fixtureid" : "17",
+      "homeTeamID" : "5",
+      "awayTeamID" : "7",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 3rd – 14:00"
+    },
+    {
+      "fixtureid" : "18",
+      "homeTeamID" : "2",
+      "awayTeamID" : "1",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 3rd – 16:00"
+    },
+    {
+      "fixtureid" : "19",
+      "homeTeamID" : "5",
+      "awayTeamID" : "8",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 3rd – 18:15"
+    },
+    {
+      "fixtureid" : "20",
+      "homeTeamID" : "2",
+      "awayTeamID" : "4",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 4th – 09:00"
+    },
+    {
+      "fixtureid" : "21",
+      "homeTeamID" : "6",
+      "awayTeamID" : "1",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 4th – 11:00"
+    },
+    {
+      "fixtureid" : "22",
+      "homeTeamID" : "4",
+      "awayTeamID" : "6",
+      "leagueID" : "1",
+      "kickoffTime" : "Feb 4th – 15:30"
+    }
+  ]
+}
